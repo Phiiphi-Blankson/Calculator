@@ -1,16 +1,34 @@
+.row{
+    border: 1px solid black;
+}
 .zero{
-    background-color: darkgray;
+    background-color: rgb(107, 107, 107);
     height: 80px;
+    border: 1px solid black;
 }
 .zero1{
     display: flex;
     justify-content: end;
+    font-size: 15px;
+    color: white;
 }
 .no1{
     background-color: whitesmoke;
     height: 40px;
+    border: 1px solid black;
+    padding-left: 120px;
+    font-size: 15px;
+    font-weight: bolder;
 }
 .orange{
     background-color: orange;
     height: 40px;
+    border: 1px solid black;
+    padding-left: 120px;
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.dot{
+    padding-left: 280px;
 }

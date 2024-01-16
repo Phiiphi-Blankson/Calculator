@@ -1,0 +1,16 @@
+.zero{
+    background-color: darkgray;
+    height: 80px;
+}
+.zero1{
+    display: flex;
+    justify-content: end;
+}
+.no1{
+    background-color: whitesmoke;
+    height: 40px;
+}
+.orange{
+    background-color: orange;
+    height: 40px;
+}
